@@ -2,3 +2,4 @@ avocados
 tomatoes
 limes
 onion
+salt
